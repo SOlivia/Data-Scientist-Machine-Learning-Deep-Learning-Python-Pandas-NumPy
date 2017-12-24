@@ -1,5 +1,5 @@
 <B>Data Scientist with Python</B>
-<ul>
+<ol type="1">
   <li>Intro to Python for Data Science</li>
   <li>Intermediate Python for Data Science</li>
   <li>Python Data Science Toolbox (Part1)</li>
@@ -20,4 +20,4 @@
   <li>Unsupervised Learning in Python</li>
   <li>Deep Learning in Python</li>
   <li>Network Analysis in Python (Part1)</li>
-</ul>
+</ol>
