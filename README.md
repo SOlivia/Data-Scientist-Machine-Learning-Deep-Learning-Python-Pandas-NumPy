@@ -1,2 +1,4 @@
 Data Scientist with Python
-<ul>Intro to Python for Data Science</ul>
+<ul>
+  <li>Intro to Python for Data Science</li>
+</ul>
